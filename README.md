@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img align="left" alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AruSahu&show_icons=true&hide_border=ture&count_private=true&theme=dark" />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AruSahu&langs_count=5&theme=tokyonight)]()
 <!--
 **AruSahu/AruSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
